@@ -1,3 +1,7 @@
+
+<img width="1426" height="740" alt="Screenshot 2026-05-05 at 8 36 00 p m" src="https://github.com/user-attachments/assets/ad36ea34-2cb9-4f62-a159-68e58498aab8" />
+
+
 # SEC Sentiment Local
 
 App local en Streamlit para subir un archivo de la SEC y pedirle a un modelo Instruct, como `Qwen/Qwen2-0.5B-Instruct`, una clasificación simple de sentimiento. La app permite analizar el documento completo, una sección SEC detectada (`Item 1A`, `Item 7`, etc.) o un texto personalizado.
